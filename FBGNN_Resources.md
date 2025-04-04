@@ -25,6 +25,3 @@ This is a curated list of useful GNN-based models relevant to fragment-based QM 
 - **ESC-GNN** – [GitHub](https://github.com/pkuyzy/ESC-GNN): Efficient substructure counting using GNNs.
 
 ---
-
-👩‍🔬 Curated by: Puja Chakraborty  
-🧪 Undergrad researcher at Zhou Lin Lab, working with Siqi Chen
